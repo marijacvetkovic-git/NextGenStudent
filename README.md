@@ -6,17 +6,17 @@
 - Teodora Cvetković 18040 (frontend)
 
 
-## Korisničko uputstvo za nextGenStudent web portal
+# Korisničko uputstvo za nextGenStudent web portal
 
-## Uvod
+# Uvod
 nextGenStudent Web portal je aplikacija razvijena od strane GOFC-a. Namena sistema je efikasna pretraga drugara za učenje, cimera, tutora kao i profesora koji drži časove za određeni predmete.
 
-## Welcome stranica portala
+# Welcome stranica portala
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/7a189edb-3f00-4b8d-aec0-e93ec039c431)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/7199ddae-9c26-4415-bcc7-57d73b1df2b0)
 
 
-##	Prijavljivanje korisnika na portal
+#	Prijavljivanje korisnika na portal
 Razlikuju se dva slučaja prijavljivanja na sistem. Prvi je kada se novi korisnik po prvi put prijavi i otvori nalog, tj. pošalje zahtev za registraciju. Drugi slučaj je kada se već postojeći korisnik prijavi da bi vršio zadatke koji su mu omogućeni. Ako se korisnik ne prijavi, on jedino može da dobije pregled osnovnih podataka o portalu( Pregled pocetne stranica,vrši pregled oglasa i stranice za nalaženje profesora). 
 
 1.	Klikom na Registarujte se / Prijavite se otvara se forma za unos podataka .
@@ -25,44 +25,44 @@ Razlikuju se dva slučaja prijavljivanja na sistem. Prvi je kada se novi korisni
 4.	Nakon izabranog tipa korisnika popunjava se odredjeni tip forme.
 5.	Nakon popunjavanja forme treba da se klikne na dugme  Prijavite se .
 
-# Registracija novog Studenta
+## Registracija novog Studenta
 
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/2a729dff-3aac-4f7c-a359-63c1bd6d6656)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/16f46d12-3ee8-42a0-b092-e1be8daddf23)
 
-# Registracija novog Profesora
+## Registracija novog Profesora
 
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/c6993532-39f6-4f5a-b1eb-b34803debade)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/4300176f-ba69-4b46-be90-abe4224aab79)
 
-## Prijavljivanje registrovanog korisnika na sistem
+# Prijavljivanje registrovanog korisnika na sistem
 1. Korisnik se svojim username-mom i lozinkom prijavljuje na sistem.
 2. U zavisnosti od njegovog statusa, ima odredjene privilegije za pristup i rad na sistemu.
 3. Odjavljuje se klikom na Odjavi se .
 
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/34c12fe3-8035-476d-a28e-e5be0a45c46d)
 
-## Menjanje podataka o sebi 
+# Menjanje podataka o sebi 
 Korisnicima koji su registrovani dozvoljeno je menjanje podataka. Korisnicima je dozvoljeno menjanje skoro svih podataka osim email adrese i rođendana.
 1.	Korisnik se prijavi na sistem kao Student
 2.	Korisnik odabere sa menija opciju Izmeni profil kako bi promenio podatke. Forma za korisnika regostrovanog kao Student  izgleda kao na sledećoj slici.
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/5202593b-98c4-48cb-a50d-8b4e564efe77)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/e50ff6fc-8b28-4331-a507-d4a1e217ddf8)
 
-## Početna strana
+# Početna strana
 U zavisnosti od tipa profila, korisnici dobijaju različit izgled početne strane.
 
-# Početna strana – Student 
+## Početna strana – Student 
 Početna strana studenta je prvenstveno namenjena dodavanju novih oglasa za cimera, tutora ili drugara . Ova stranica takodje pruža mogućnost za listanje oglasa koje je student postavio. Takođe mu daje mogućnost brisanja i dodavanja oglasa.
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/9ba00d5c-de34-44db-a933-21384aa3848a)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/8ca66654-1c4e-4382-a0f9-be022d95f370)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/5fdf6773-be43-4fc3-9768-9e025e1cb0e7)
 
-# Početna strana – Profesor
+## Početna strana – Profesor
 Početna strana predavača predstavlja zapravo njegov profil.
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/daefec02-9dde-4efd-9046-dd4c285470ae)
 
-# Početna strana – Administrator
+## Početna strana – Administrator
 Sa ove strane možemo da izaberemo neku od sledećih opcija:
 1.	Lista svih korisnika 
 2.	Banovani korisnici 
@@ -73,7 +73,7 @@ Sa ove strane možemo da izaberemo neku od sledećih opcija:
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/0e90d07b-4327-4828-8096-ff22d25b21f5)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/52cc588d-e7cd-4560-bf5d-b9213a96db60)
 
-## Pretraga Profesora
+# Pretraga Profesora
 1.	Korisnik koji ima status Student ili nije prijavljen na sistem ima opciju pretrage i filtriranja profesora.
 2.	Klikom na na opciju Professor page pruža se mogućnost izbacivanja liste profesora.
 3.	 Filtriranje se može vršiti prema predmetu koji profesor predaje.
@@ -81,22 +81,22 @@ Sa ove strane možemo da izaberemo neku od sledećih opcija:
 5.	Student se može upisati u raspored profesora
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/0bdb7718-8a73-4524-9a77-89011176e907)
 
-## Ocenjivanje Profesora
+# Ocenjivanje Profesora
 1.	Student ulazi na profil profesora.
 2.	Pruža  mu se opcija da doda komentar i oceni rad profesora.
 3.	Taj komenatar vide svi koji pristupe profesorovom profilu.
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/a8f255b2-ac35-4489-9c39-e499469ea053)
 
-## Pregled profila
+# Pregled profila
 
-# Profil Studenta
+## Profil Studenta
 1. Korisnik treba u navbaru da odabere opciju Oglasi i izabere koji tip oglasa zeli da pogleda.
 2. Otvara se stranica sa odredjenim oglasima
 3. Moguce je kliknuti na username korisnika koji je postavio oglas.
 4. Prikazuje se profil Studenta koji je postavio oglas
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/14b45000-7eb5-43e4-a75d-5079ed107600)
 
-# Profil Predavača
+## Profil Predavača
 
 1. Korisnik u navbaru bira opciju Professori
 2. Otvara mu se lista profesora koji imaju account na nasem portalu
