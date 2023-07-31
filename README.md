@@ -8,10 +8,10 @@
 
 ## Korisničko uputstvo za nextGenStudent web portal
 
-# Uvod
+## Uvod
 nextGenStudent Web portal je aplikacija razvijena od strane GOFC-a. Namena sistema je efikasna pretraga drugara za učenje, cimera, tutora kao i profesora koji drži časove za određeni predmete.
 
-# Welcome stranica portala
+## Welcome stranica portala
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/7a189edb-3f00-4b8d-aec0-e93ec039c431)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/7199ddae-9c26-4415-bcc7-57d73b1df2b0)
 
@@ -35,21 +35,21 @@ Razlikuju se dva slučaja prijavljivanja na sistem. Prvi je kada se novi korisni
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/c6993532-39f6-4f5a-b1eb-b34803debade)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/4300176f-ba69-4b46-be90-abe4224aab79)
 
-# Prijavljivanje registrovanog korisnika na sistem
+## Prijavljivanje registrovanog korisnika na sistem
 1. Korisnik se svojim username-mom i lozinkom prijavljuje na sistem.
 2. U zavisnosti od njegovog statusa, ima odredjene privilegije za pristup i rad na sistemu.
 3. Odjavljuje se klikom na Odjavi se .
 
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/34c12fe3-8035-476d-a28e-e5be0a45c46d)
 
-# Menjanje podataka o sebi 
+## Menjanje podataka o sebi 
 Korisnicima koji su registrovani dozvoljeno je menjanje podataka. Korisnicima je dozvoljeno menjanje skoro svih podataka osim email adrese i rođendana.
 1.	Korisnik se prijavi na sistem kao Student
 2.	Korisnik odabere sa menija opciju Izmeni profil kako bi promenio podatke. Forma za korisnika regostrovanog kao Student  izgleda kao na sledećoj slici.
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/5202593b-98c4-48cb-a50d-8b4e564efe77)
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/e50ff6fc-8b28-4331-a507-d4a1e217ddf8)
 
-## 6.	Početna strana
+## Početna strana
 U zavisnosti od tipa profila, korisnici dobijaju različit izgled početne strane.
 
 # Početna strana – Student 
