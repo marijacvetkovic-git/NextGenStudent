@@ -1,4 +1,4 @@
-![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/002f3d20-d723-4f0b-8ca8-962125b5840a)# Students that contributed to making this project
+# Students that contributed to making this project
 
 - Anastasija Cvetković 18033 (frontend)
 - Katarina Cvetković 18038 (backend)
