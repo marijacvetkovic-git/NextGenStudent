@@ -1,4 +1,4 @@
-# Students that contributed to making this project
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/002f3d20-d723-4f0b-8ca8-962125b5840a)# Students that contributed to making this project
 
 - Anastasija Cvetković 18033 (frontend)
 - Katarina Cvetković 18038 (backend)
@@ -41,6 +41,95 @@ Razlikuju se dva slučaja prijavljivanja na sistem. Prvi je kada se novi korisni
 3. Odjavljuje se klikom na Odjavi se .
 
 ![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/34c12fe3-8035-476d-a28e-e5be0a45c46d)
+
+# Menjanje podataka o sebi 
+Korisnicima koji su registrovani dozvoljeno je menjanje podataka. Korisnicima je dozvoljeno menjanje skoro svih podataka osim email adrese i rođendana.
+1.	Korisnik se prijavi na sistem kao Student
+2.	Korisnik odabere sa menija opciju Izmeni profil kako bi promenio podatke. Forma za korisnika regostrovanog kao Student  izgleda kao na sledećoj slici.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/5202593b-98c4-48cb-a50d-8b4e564efe77)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/e50ff6fc-8b28-4331-a507-d4a1e217ddf8)
+
+## 6.	Početna strana
+U zavisnosti od tipa profila, korisnici dobijaju različit izgled početne strane.
+
+# Početna strana – Student 
+Početna strana studenta je prvenstveno namenjena dodavanju novih oglasa za cimera, tutora ili drugara . Ova stranica takodje pruža mogućnost za listanje oglasa koje je student postavio. Takođe mu daje mogućnost brisanja i dodavanja oglasa.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/9ba00d5c-de34-44db-a933-21384aa3848a)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/8ca66654-1c4e-4382-a0f9-be022d95f370)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/5fdf6773-be43-4fc3-9768-9e025e1cb0e7)
+
+# Početna strana – Profesor
+Početna strana predavača predstavlja zapravo njegov profil.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/daefec02-9dde-4efd-9046-dd4c285470ae)
+
+# Početna strana – Administrator
+Sa ove strane možemo da izaberemo neku od sledećih opcija:
+1.	Lista svih korisnika 
+2.	Banovani korisnici 
+3.	Korisnici koji nisu banovani 
+4.	Notifikacije o prijavama
+
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/a03cac2a-78f2-4bd6-b1c9-13824b777fe6)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/0e90d07b-4327-4828-8096-ff22d25b21f5)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/52cc588d-e7cd-4560-bf5d-b9213a96db60)
+
+## Pretraga Profesora
+1.	Korisnik koji ima status Student ili nije prijavljen na sistem ima opciju pretrage i filtriranja profesora.
+2.	Klikom na na opciju Professor page pruža se mogućnost izbacivanja liste profesora.
+3.	 Filtriranje se može vršiti prema predmetu koji profesor predaje.
+4.	Student može detaljnije pogledati profil predavača klikom na njegovu profil.
+5.	Student se može upisati u raspored profesora
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/0bdb7718-8a73-4524-9a77-89011176e907)
+
+## Ocenjivanje Profesora
+1.	Student ulazi na profil profesora.
+2.	Pruža  mu se opcija da doda komentar i oceni rad profesora.
+3.	Taj komenatar vide svi koji pristupe profesorovom profilu.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/a8f255b2-ac35-4489-9c39-e499469ea053)
+
+## Pregled profila
+
+# Profil Studenta
+1. Korisnik treba u navbaru da odabere opciju Oglasi i izabere koji tip oglasa zeli da pogleda.
+2. Otvara se stranica sa odredjenim oglasima
+3. Moguce je kliknuti na username korisnika koji je postavio oglas.
+4. Prikazuje se profil Studenta koji je postavio oglas
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/14b45000-7eb5-43e4-a75d-5079ed107600)
+
+# Profil Predavača
+
+1. Korisnik u navbaru bira opciju Professori
+2. Otvara mu se lista profesora koji imaju account na nasem portalu
+3. Klikom na username profesora prikazuje se njegov profil
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/cc2f0188-4f22-4c02-b3fd-24b380a8761c)
+
+# Dodaj čas
+1.	Profesor ulazi na svoj raspored i ima opciju da doda časove.
+2.	Profesor unosi termine u kojima može da drži casove kao i cenu casa.
+3.	Nakon uspesnog kreiranja časa student može da se prijavi i izabere predmet
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/8ff68e2f-801d-40c5-a76b-5797262d5dc5)
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/6de8fdc6-d20b-4216-981f-d2ef2c6d59bf)
+
+# Zakaži čas
+
+4.	Student se nalazi na profilu profesora sa kojim želi da zakaže čas.
+5.	Klikom na profil Profesora pjavljuje se raspored koji je profesor postavio .
+3.   Korisnik bira slobodan termin iz rasporeda koji je profesor postavio pritiskom na dugme Zakaži .
+4.   Korisnik bira predmet iz kojeg želi da ima čas i nakon toga ga zakazuje.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/0fe44bcb-1f9e-4a10-ae41-88358a84794e)
+
+# Brisanje naloga
+1.   Student ili Profesor klikće na dugme Obriši profil na profilnoj stranici nakon čega se otvara forma gde je potrebno uneti lozinku.
+![image](https://github.com/marijacvetkovic-git/NextGenStudent/assets/117784486/4a419315-0250-420e-9cc7-5832c33c865c)
+
+
+
+
+
+
+
+
+
 
 
 
