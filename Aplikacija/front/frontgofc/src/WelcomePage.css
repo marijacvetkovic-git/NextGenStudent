@@ -1,0 +1,34 @@
+#centriraj {
+  text-align: center;
+  margin: 2rem;
+}
+#toplaDobrodoslica {
+  display: inline-block;
+}
+#tekstDobrodoslice {
+  display: inline-block;
+  padding-top: 2rem;
+}
+#slikaDobrodoslice {
+  display: inline-block;
+  padding-top: 2rem;
+  padding-right: 3rem;
+
+  margin-bottom: 3rem;
+  position: left;
+}
+.h1welcome {
+  font-size: 40px;
+  font-family: consolas;
+  color: #666;
+  text-shadow: 3px 0px 0px #b2b2b2;
+  padding-bottom: 1rem;
+}
+.h2welcome {
+  font-size: 20px;
+}
+#imeportala {
+  font-size: 30px;
+  color: #666;
+  padding-top: 0.5rem;
+}
