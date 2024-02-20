@@ -8,6 +8,7 @@
 
 # Korisničko uputstvo za nextGenStudent web portal
 
+
 # Uvod
 nextGenStudent Web portal je aplikacija razvijena od strane GOFC-a. Namena sistema je efikasna pretraga drugara za učenje, cimera, tutora kao i profesora koji drži časove za određeni predmete.
 
